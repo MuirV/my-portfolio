@@ -10,23 +10,11 @@
 ● 后处理材质屏幕故障效果
 等等
 
-
 ###🌐站点访问地址
 👉[https://muirv.github.io/my-portfolio/](https://muirv.github.io/my-portfolio/)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##项目说明(Disclaimer)
-
-1.来源说明：本项目完整拷贝自[deepspacebanana.github.io](https://github.com/deepspacebanana/deepspacebanana.github.io)。原作者是一位非常出色epic的技术美术专家。
-2.拷贝目的：
--学习研究：深入研究其UnrealEngine材质节点逻辑（如RainySurface,Hologram,IceShader等）。
--备份保障：由于原站点资源文件较大（约1.7GB），且海外访问不稳定，此镜像用于确保在学习过程中能够随时、完整地查看高清Shader演示GIF及相关技术文档。
--环境适配：已针对GitHubPages进行了路径（BaseURL）适配，确保所有样式和多媒体资源在当前仓库下可正常加载。
-3.版权声明：本项目所有文章内容、材质节点图、原创GIF演示及代码逻辑之版权均归原作者所有。请勿将此镜像用于任何商业用途。
-
-
-#MuirV's Tech Art Portfolio (LearningMirror)
+#Taizyd Korambayil's Tech Art Portfolio (LearningMirror)
 
 This is a backup mirror of technical art (TechArt) learning materials maintained by MuirV.  
 The original author is: Taizyd Korambayil
@@ -42,6 +30,15 @@ etc.
 👉 [https://muirv.github.io/my-portfolio/](https://muirv.github.io/my-portfolio/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##项目说明(Disclaimer)
+
+1.来源说明：本项目完整拷贝自[deepspacebanana.github.io](https://github.com/deepspacebanana/deepspacebanana.github.io)。原作者是一位非常出色epic的技术美术专家。
+2.拷贝目的：
+-学习研究：深入研究其UnrealEngine材质节点逻辑（如RainySurface,Hologram,IceShader等）。
+-备份保障：由于原站点资源文件较大（约1.7GB），且海外访问不稳定，此镜像用于确保在学习过程中能够随时、完整地查看高清Shader演示GIF及相关技术文档。
+-环境适配：已针对GitHubPages进行了路径（BaseURL）适配，确保所有样式和多媒体资源在当前仓库下可正常加载。
+3.版权声明：本项目所有文章内容、材质节点图、原创GIF演示及代码逻辑之版权均归原作者所有。请勿将此镜像用于任何商业用途。
 
 ## Project Description (Disclaimer)
 
