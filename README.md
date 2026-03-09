@@ -1,4 +1,4 @@
-#MuirV's Tech Art Portfolio(LearningMirror)
+#Taizyd Korambayil's Tech Art Portfolio(LearningMirror)
 
 这是由MuirV维护的一份技术美术（TechArt）学习资料备份镜像。
 原作者为：Taizyd Korambayil
