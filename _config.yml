@@ -4,8 +4,8 @@
 title: DeepSpaceBanana Art
 description: "Taizyd Korambayil's Game Dev Portfolio and Blog: This website serves as my online portfolio/blog covering 3D Art, Technical Art and general Game Dev"
 analytics: UA-104053089-1 #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/deepspacebanana.github.io" #/deepspacebanana.github.io
-url: "http://deepspacebanana.github.io"
+baseurl: "/my-portfolio" #/deepspacebanana.github.io
+url: "https://MuirV.github.io"
 
 # Build settings
 markdown: kramdown
